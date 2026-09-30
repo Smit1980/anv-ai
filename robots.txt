@@ -1,12 +1,2 @@
 User-agent: *
 Allow: /
-Disallow: /seo-strategy-anv-ai-ru.html
-Disallow: /strateg-seo/
-
-User-agent: Yandex
-Allow: /
-Disallow: /seo-strategy-anv-ai-ru.html
-Disallow: /strateg-seo/
-Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_content&yclid&gclid&fbclid /
-
-Sitemap: https://anv-ai.ru/sitemap.xml
