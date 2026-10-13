@@ -1,0 +1,4 @@
+.nav-toggle,.scenario-tabs,#motion-toggle,#contact-form{display:none!important}
+.scenario-panel[hidden]{display:block!important}
+.scenario-panel+.scenario-panel{margin-top:40px}
+@media(max-width:900px){.site-header{position:relative}.nav{height:auto;flex-wrap:wrap;padding-block:20px}.nav-links{position:static;display:flex;flex-wrap:wrap;padding:10px 0;gap:16px;background:none}.nav-links>a{font-size:12px;border:0;padding:4px 0}.nav-links .nav-cta{margin:0;padding:4px 0;font-size:12px}.nav-links .nav-cta span{margin-left:8px}}
